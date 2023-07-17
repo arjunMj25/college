@@ -1,0 +1,5 @@
+com/alloymobile/college/persistence/Student.class
+com/alloymobile/college/persistence/StudentRepository.class
+com/alloymobile/college/web/StudentResource.class
+com/alloymobile/college/service/StudentService.class
+com/alloymobile/college/CollegeApplication.class
